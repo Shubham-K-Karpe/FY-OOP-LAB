@@ -1,0 +1,1 @@
+maj karto maj karto don fakt maj karto
