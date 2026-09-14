@@ -2,6 +2,7 @@
 UNIT WISE ASSIGNMENT OF SEM-1:
 
 UNIT 1:
+
 Assignment 1: A bookstore is introducing a digital inventory system to organize its collection of books. Design a
 Book class that stores essential book details and allows the staff to record and display the
 information whenever required.
@@ -15,6 +16,7 @@ Design an Employee class that stores employee details and enables authorized sta
 stored information whenever required.
 
 UNIT 2:
+
 Assignment 4: A bookstore is developing a cataloguing system where some books are initially added with default
 details, while others are entered with complete information. Design a Book class that supports both
 types of object creation using appropriate constructors.
