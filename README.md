@@ -36,6 +36,10 @@ information for all individuals, while student-specific information such as roll
 branch is maintained separately. Design an application that avoids duplication of common
 data by organizing the classes appropriately.
 
-Assignment 8:An organization maintains records of its workforce. Every manager is an employee, and
+Assignment 8: An organization maintains records of its workforce. Every manager is an employee, and
 every employee is a person. Design an application that progressively extends the available
 information at each level while reusing the common details already defined.
+
+Assignment 9: A transport management system maintains common information for all vehicles while
+storing additional details specific to different vehicle categories. Design an application that
+organizes these records efficiently using inheritance.
